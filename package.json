@@ -1,0 +1,24 @@
+{
+  "name": "fwd-lesson-template",
+  "version": "1.0.0",
+  "description": "Simple dev server",
+  "scripts": {
+    "start": "npx ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT-Cluster-Academy-FWD/fwd-lesson-template.git"
+  },
+  "keywords": [
+    "fwd"
+  ],
+  "author": "madm2n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT-Cluster-Academy-FWD/fwd-lesson-template/issues"
+  },
+  "homepage": "https://github.com/IT-Cluster-Academy-FWD/fwd-lesson-template#readme",
+  "dependencies": {
+    "local-web-server": "^4.2.1"
+  }
+}
